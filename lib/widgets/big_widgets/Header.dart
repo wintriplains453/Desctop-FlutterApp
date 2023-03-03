@@ -11,7 +11,7 @@ class _HeaderState extends State<Header> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Text("Header text"),
+      child: Text("Header"),
     );
   }
 }
